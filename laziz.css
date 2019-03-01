@@ -1,0 +1,47 @@
+p
+{ text-align: center;
+	font-size: 16px;
+  font-family: Kristen ITC;
+}
+.block-1
+{width: 900px; 
+}
+h1
+{
+text-align: center;
+color: #B53389;
+  font-size: 26px;
+  font-family: Lucida Handwriting;;
+}
+*
+{ padding: 0;
+  margin: 0;
+}
+body
+{background: url(pattern.jpg);}
+
+ul
+{  text-align: center;
+  list-style-position: inside;
+   font-size: 16px;
+  font-family: Kristen ITC;
+
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+    color: hotpink;
+}
+
+h2, h3, h4
+{ 
+  text-align: center;
+  color: #32CD32;
+  font-size: 24px;
+  font-family: segoe script;
+}
+.center{
+	text-align: center;
+}
